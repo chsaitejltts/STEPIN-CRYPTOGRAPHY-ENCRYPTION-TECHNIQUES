@@ -18,7 +18,7 @@
 
 ## Default :
 
-   ![Default](https://github.com/HARISHCH684/l-tminiproject/blob/master/5_Images/default.png)
+   ![Default](https://github.com/chsaitejltts/project-0001/blob/main/5_Images/default.png)
 
 ## Table 1: High level test plan 
 
