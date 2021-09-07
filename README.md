@@ -3,7 +3,8 @@
 
 | Build | Static and Dynamic code analysis       | Unit testing |Code coverage |Git inspector | Code Quality|
 |-------------|--------------------------------------------------------------|------------|-------------|----------------|----------------------------------------|
-https://github.com/chsaitejltts/project-0001/blob/main/.github/workflows/bulid.yml|https://github.com/chsaitejltts/project-0001/blob/main/.github/workflows/coverage.yml|https://github.com/chsaitejltts/project-0001/blob/main/.github/workflows/cppcheck.yml|https://github.com/chsaitejltts/project-0001/blob/main/.github/workflows/gitinspector.yml|https://github.com/chsaitejltts/project-0001/blob/main/.github/workflows/unitytest.yml|https://github.com/chsaitejltts/project-0001/blob/main/.github/workflows/valgrind.yml
+[![C/C++ CI Build](https://github.com/chsaitejltts/project-0001/actions/workflows/bulid.yml/badge.svg)](https://github.com/chsaitejltts/project-0001/actions/workflows/bulid.yml)
+
 
 ## Folder Structure
 
