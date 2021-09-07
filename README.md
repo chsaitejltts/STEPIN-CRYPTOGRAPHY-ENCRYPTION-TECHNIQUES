@@ -3,7 +3,7 @@
 
 | Build | Static and Dynamic code analysis       | Unit testing |Code coverage |Git inspector | Code Quality|
 |-------------|--------------------------------------------------------------|------------|-------------|----------------|----------------------------------------|
-|[![C/C++ CI Build](https://github.com/HARISHCH684/l-tminiproject/actions/workflows/c-build.yml/badge.svg)](https://github.com/HARISHCH684/l-tminiproject/actions/workflows/c-build.yml)|[![cppcheck-action-test](https://github.com/HARISHCH684/l-tminiproject/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/HARISHCH684/l-tminiproject/actions/workflows/cppcheck.yml)[![Dynamic code Analysis - Valgrind](https://github.com/HARISHCH684/l-tminiproject/actions/workflows/valgrind.yml/badge.svg)](https://github.com/HARISHCH684/l-tminiproject/actions/workflows/valgrind.yml)|[![Unit Testing - Unity](https://github.com/HARISHCH684/l-tminiproject/actions/workflows/unitytest.yml/badge.svg)](https://github.com/HARISHCH684/l-tminiproject/actions/workflows/unitytest.yml)|[![CI coverage](https://github.com/HARISHCH684/l-tminiproject/actions/workflows/coverage.yml/badge.svg)](https://github.com/HARISHCH684/l-tminiproject/actions/workflows/coverage.yml)|[![Git Inspector](https://github.com/HARISHCH684/l-tminiproject/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/HARISHCH684/l-tminiproject/actions/workflows/gitinspector.yml)|![code quality score](https://www.code-inspector.com/project/25281/score/svg)![code quality score](https://www.code-inspector.com/project/25281/status/svg)
+
 
 ## Folder Structure
 
