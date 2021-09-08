@@ -16,7 +16,7 @@ Depending upon the project how well it is built and all the requirements will me
 ## Defining Our System
   *Architecture:*
   
-   ![Architecture](https://github.com/chsaitejltts/project-0001/blob/main/5_Images/architecture.jpeg)
+   ![Architecture](https://github.com/chsaitejltts/STEPIN-CRYPTOGRAPHY-ENCRYPTION-TECHNIQUES/blob/main/5_Images/architecture.jpeg)
 
    
  - Cryptography Encryption Techniques application is capable of performing following functions:
@@ -28,7 +28,7 @@ Depending upon the project how well it is built and all the requirements will me
     
 
 ## SWOT ANALYSIS
-![swot analysis](https://github.com/chsaitejltts/project-0001/blob/main/5_Images/swot.jpeg)
+![swot analysis]https://github.com/chsaitejltts/STEPIN-CRYPTOGRAPHY-ENCRYPTION-TECHNIQUES/blob/main/5_Images/swot.jpeg)
 
 
 # 4W&#39;s and 1&#39;H
