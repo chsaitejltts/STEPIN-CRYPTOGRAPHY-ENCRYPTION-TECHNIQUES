@@ -2,23 +2,23 @@
 
 ## Home Page :
 
-   ![Home Page](https://github.com/chsaitejltts/project-0001/blob/main/5_Images/home.png)
+   ![Home Page](https://github.com/chsaitejltts/STEPIN-CRYPTOGRAPHY-ENCRYPTION-TECHNIQUES/blob/main/5_Images/home.png)
 
 ## Vignere Cipher :
 
-   ![Vignere Cipher](https://github.com/chsaitejltts/project-0001/blob/main/5_Images/vignere.png)
+   ![Vignere Cipher](https://github.com/chsaitejltts/STEPIN-CRYPTOGRAPHY-ENCRYPTION-TECHNIQUES/blob/main/5_Images/vignere.png)
 
 ## Vernem Cipher :
 
-   ![Vernem Cipher](https://github.com/chsaitejltts/project-0001/blob/main/5_Images/vernem.png)
+   ![Vernem Cipher](https://github.com/chsaitejltts/STEPIN-CRYPTOGRAPHY-ENCRYPTION-TECHNIQUES/blob/main/5_Images/vernem.png)
 
 ## Ceaser Cipher :
 
-   ![Ceaser Cipher](https://github.com/chsaitejltts/project-0001/blob/main/5_Images/ceaser.png)
+   ![Ceaser Cipher](https://github.com/chsaitejltts/STEPIN-CRYPTOGRAPHY-ENCRYPTION-TECHNIQUES/blob/main/5_Images/ceaser.png)
 
 ## Default :
 
-   ![Default](https://github.com/chsaitejltts/project-0001/blob/main/5_Images/default.png)
+   ![Default](https://github.com/chsaitejltts/STEPIN-CRYPTOGRAPHY-ENCRYPTION-TECHNIQUES/blob/main/5_Images/default.png)
 
 ## Table 1: High level test plan 
 
